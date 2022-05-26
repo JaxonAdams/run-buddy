@@ -13,4 +13,4 @@ https://jaxonadams.github.io/run-buddy
 ## Contribution
 Made by Jaxon Adams
 
-### ©️2019 Run Buddy, Inc 
+
